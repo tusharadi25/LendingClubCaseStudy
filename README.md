@@ -44,4 +44,4 @@
 
 
 ## Contact
-Created by [@tusharadi25tusharadi25] - feel free to contact me!
+Created by [@tusharadi25] - feel free to contact me!
