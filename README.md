@@ -1,5 +1,6 @@
 # Lending Club Case Study
-> This firm is the largest online loan marketplace, providing personal loans, business loans, and financing of medical procedures. Borrowers can easily obtain lower interest rate loans via an easy online interface. The objective is to identify risky loan applicants and the factors that are most likely to lead to loan defaults.
+> Data is provided for a consumer finance company that specialises in lending different types of loans to urban customers. When the company receives a loan application, it must make a decision about loan approval based on the applicant's profile. 
+We need to make recommendations based on the data so that the finance company can reject loan applications from potential defaulters in the future.
 
 
 
@@ -14,7 +15,6 @@
 
 ## General Information
 - The work is to identify the driving factors behind the loan default.
-- The largest online loan marketplace company wants to reduce loan defaults.
 - The company must identify the root causes of loan defaults in order to reduce them and  credit loss.
 - The data set for analysis is made up of debtor details.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -25,13 +25,20 @@
 - The likelihood of the client defaulting rises as the loan amount does.
 - The likelihood of a customer defaulting on a loan increases as the amount of loan installments increases.
 - Customers with verified incomes are more likely to default than others.
-- G-grade loans are more likely to default than other grades.
-- Defaulters' chances over loan grades G, F, E, D, C, B, and A in this order
 - The rate of defaulters has decreased over the past year, and more customers are repaying their loans.
 - Higher the salary, Customer is less likely to default on the loan.
 - Higher the interest rates, Customer is more likely to default on the loan.
 - Customers who have a past bankruptcy record are more likely to default on loan
 - A strong positive correlation exists between Loan amount and Installment.
+
+## Key Insights for Mitigating Default Risk in the Lending Process
+- **Loan size:** Larger loans tend to have a higher default rate. Consider stricter risk assessment or alternative loan structures for larger amounts.
+- **Borrower income:** Lower income borrowers may be higher risk. Utilize a variety of factors like credit score and debt-to-income ratio for informed decisions.
+- **Industry sector:** Businesses in certain sectors experience higher default rates. Develop industry-specific lending criteria to mitigate risk.
+- **Public record bankruptcies:** Individuals with past bankruptcies pose a higher risk. Leverage this information alongside other factors during loan assessment.
+
+By considering these factors and implementing appropriate strategies, lenders can make informed decisions, minimize defaults, and ensure the financial health of their institutions.
+
 
 ## Technologies Used
 - Python - version 3.10.12
