@@ -31,7 +31,7 @@
 - Higher the salary, Customer is less likely to default on the loan.
 - Higher the interest rates, Customer is more likely to default on the loan.
 - Customers who have a past bankruptcy record are more likely to default on loan
-- A strong positive correlation exists between Loan amount, Funded amount, and Installment.
+- A strong positive correlation exists between Loan amount and Installment.
 
 ## Technologies Used
 - Python - version 3.10.12
