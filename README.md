@@ -8,6 +8,7 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -44,4 +45,4 @@
 
 
 ## Contact
-Created by [@tusharadi25] - feel free to contact me!
+Created by [@tusharadi25] [@joebalan-git] - feel free to contact me!
