@@ -28,8 +28,10 @@
 - G-grade loans are more likely to default than other grades.
 - Defaulters' chances over loan grades G, F, E, D, C, B, and A in this order
 - The rate of defaulters has decreased over the past year, and more customers are repaying their loans.
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- Higher the salary, Customer is less likely to default on the loan.
+- Higher the interest rates, Customer is more likely to default on the loan.
+- Customers who have a past bankruptcy record are more likely to default on loan
+- A strong positive correlation exists between Loan amount, Funded amount, and Installment.
 
 ## Technologies Used
 - Python - version 3.10.12
